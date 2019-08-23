@@ -1,6 +1,7 @@
 ---
 title: "German Credit Data"
 author: "Keerthi Gopalakrishnan"
+date: "May 2019"
 output:
   html_document:
     code_folding: hide
